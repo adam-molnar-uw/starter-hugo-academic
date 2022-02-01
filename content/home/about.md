@@ -1,5 +1,5 @@
 ---
-widget: "ice axe "
+widget: about
 widget_id: recent posts
 headless: true
 weight: 20
